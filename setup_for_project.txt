@@ -1,0 +1,6 @@
+to setup express generator the commands are as follows
+npm i express-generator -g //write this command in cmd 
+express project-name --view=ejs
+cd projectname
+npm i
+code . //this will automatically open our project in vs code
